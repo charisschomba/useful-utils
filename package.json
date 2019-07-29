@@ -1,0 +1,11 @@
+{
+  "name": "useful-utils",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/charisschomba/useful-utils.git",
+  "author": "chariss <charisschomba@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
+}
